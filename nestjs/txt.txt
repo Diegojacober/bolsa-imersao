@@ -1,0 +1,26 @@
+npm run start:dev
+
+
+ctrl + shift + p
+	dev container open folder
+		escolher pasta
+			from docker compose
+				plugins: zsh plugins, command utilities, shell history
+
+abrir terminal:
+	npm i @prisma/client
+	npx prisma init
+	npx @nestjs/cli generate --help
+	npx @nestjs/cli generate module prisma
+	npx @nestjs/cli generate service prisma/prisma
+	npx prisma generate
+
+	npx nest generate resource
+		assets
+			REST API
+			n -> criar as coisas para um crud
+
+
+npm i @nestjs/microservices@9.0.0 kafkajs
+
+adicionar host.docker.internal em C:\Windows\System32\drivers\etc
